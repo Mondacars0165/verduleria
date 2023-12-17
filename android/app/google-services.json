@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "617127359597",
+    "project_id": "verduleria-df26f",
+    "storage_bucket": "verduleria-df26f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617127359597:android:404aa8d5ab1357473ffb64",
+        "android_client_info": {
+          "package_name": "com.example.verduleria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsjOtm_NzpCoCdTyHMm4mmnq5OeZK2hus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617127359597:android:598b38208ae5a0053ffb64",
+        "android_client_info": {
+          "package_name": "verduleria.licanten"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsjOtm_NzpCoCdTyHMm4mmnq5OeZK2hus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
